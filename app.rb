@@ -2,8 +2,8 @@ require 'pry'
 require 'bundler'
 Bundler.require
 
-require_relative 'lib/game'
-require_relative 'lib/player'
+require_relative 'game'
+require_relative 'player'
 
 puts "---------------------------------------------------"
 puts "| Bienvenue sur 'ILS VEULENT TOUS MA POO' !       |"
